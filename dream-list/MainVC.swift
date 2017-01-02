@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainVC
 //  dream-list
 //
 //  Created by R. Maia on 01/01/17.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
